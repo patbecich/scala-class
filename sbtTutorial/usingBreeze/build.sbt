@@ -27,8 +27,6 @@ lazy val distributions: Project =  (project in file("distributions")).
       "org.scalanlp" %% "breeze" % "0.12",
       "org.scalanlp" %% "breeze-natives" % "0.12"
     )
-
-
   )
 
 // Task 4b
